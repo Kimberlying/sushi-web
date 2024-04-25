@@ -1,5 +1,11 @@
 <div align="center">
   <div>
+    <img src="assets/WechatIMG41.jpg" />
+  </div>
+  <div>
+    <img src="assets/WechatIMG42.jpg" />
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/-HTML_5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="html5" />
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
   </div>
@@ -7,7 +13,7 @@
   <h3 align="center">Sushi Website</h3>
 </div>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - HTML 5
 - CSS 3
@@ -44,7 +50,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+## <a name="snippets"> Snippets</a>
 
 <details>
 <summary><code>index.html</code></summary>
